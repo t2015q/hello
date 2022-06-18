@@ -1,1 +1,1 @@
-web: herokuAddr=www.yunxiao.cf npm run start
+web: herokuAddr=yunxiao.cf npm run start
